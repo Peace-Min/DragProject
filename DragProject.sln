@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragProject", "DragProject\DragProject.csproj", "{148F1004-9911-4EFA-B834-8A31298EEEDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{26745B57-FC5F-483A-8B63-138757B5142E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertLib", "ConvertLib\ConvertLib\ConvertLib.csproj", "{86F7677C-1319-45E6-862F-72D38B651A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148F1004-9911-4EFA-B834-8A31298EEEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148F1004-9911-4EFA-B834-8A31298EEEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148F1004-9911-4EFA-B834-8A31298EEEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148F1004-9911-4EFA-B834-8A31298EEEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F7677C-1319-45E6-862F-72D38B651A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F7677C-1319-45E6-862F-72D38B651A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F7677C-1319-45E6-862F-72D38B651A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F7677C-1319-45E6-862F-72D38B651A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC42B97A-C268-4C31-A2DA-B79E7EFEF49E}
+	EndGlobalSection
+EndGlobal
